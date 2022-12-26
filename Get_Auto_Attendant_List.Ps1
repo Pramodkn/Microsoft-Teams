@@ -30,7 +30,7 @@ $Headers2 = @{"Authorization" = $Token2
 }
 
 $Footer1 = "<BR><i>Report generated on $((Get-Date).ToString()) by $CurrentUser</i>" #$($Env:USERNAME)</i>"
-$Footer2 = "<BR><i> <font color =""#99000""> Scripted by Pramod.KN (Pramod.KN@gds.ey.com), Teams Support </font></i>"
+$Footer2 = "<BR><i> <font color =""#99000""> Scripted by Pramod.KN (Pramodknataraj@gmail.com) </font></i>"
 
 
 $Url = "https://api.interfaces.records.teams.microsoft.com/Teams.VoiceApps/auto-attendants?First=99999"
